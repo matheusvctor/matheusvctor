@@ -1,12 +1,10 @@
 # Bem-vindo ao meu Perfil! 👋
 
-<img align="center" alt="" src="./src/header-gif.gif">
 #
 <p align="center">Estudante de Ciências da Computação na Universidade Estadual da Paraíba de Campina Grange. 
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
 #
-<img align="center" alt="" src="./src/header-gif.gif">
+
 ### Linguagens e Ferramentas
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
