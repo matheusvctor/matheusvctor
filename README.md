@@ -1,6 +1,10 @@
 # Bem-vindo ao meu Perfil! 👋
 
-Sou um entusiasta de desenvolvimento e tecnologia! Aqui estão algumas das tecnologias que uso frequentemente:
+#
+<p align="center">Estudante de Ciências da Computação na Universidade Estadual da Paraíba de Campina Grange. 
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
+#
 
 ### Linguagens e Ferramentas
 <p align="center">
