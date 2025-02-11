@@ -10,33 +10,41 @@
 
 ## 🚀 Minhas Skills
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" class="tech-icon">
-  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" class="tech-icon">
-  <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" class="tech-icon">
-  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" class="tech-icon">
-  <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" class="tech-icon">
+<div style="display: inline_block" align="center">
+  <div class="skills-container">
+    <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" class="tech-icon">
+    <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" class="tech-icon">
+    <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" class="tech-icon">
+    <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" class="tech-icon">
+    <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" class="tech-icon">
+  </div>
 </div>
 
 <style>
-  
+  .skills-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+  }
+
   .tech-icon {
-    margin: 0 10px;
-    transition: all 0.5s ease;
+    transition: all 0.3s ease;
     animation: float 6s ease-in-out infinite;
+    animation-delay: calc(var(--i) * 0.2s);
   }
 
   .tech-icon:hover {
-    transform: translateY(-25px) scale(1.3);
+    transform: translateY(-25px) scale(1.2);
     filter: drop-shadow(0 0 10px rgba(0,191,191,0.8));
   }
 
   @keyframes float {
     0%, 100% {
-      transform: translateY(0) rotate(0deg);
+      transform: translateY(0);
     }
     50% {
-      transform: translateY(-20px) rotate(5deg);
+      transform: translateY(-20px);
     }
   }
 
@@ -52,7 +60,6 @@
     transform: scale(1.02);
     box-shadow: 0 0 20px rgba(0,191,191,0.5);
   }
-  
 </style>
 
 ## 💡 Conhecimentos
@@ -87,10 +94,10 @@
 ## 📫 Entre em Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/matheusvctor" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-victor-296095243/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" class="social-icon">
   </a>
-  <a href="mailto:seu.email@gmail.com">
+  <a href="mailto:matheusrochamil203@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" class="social-icon">
   </a>
 </div>
