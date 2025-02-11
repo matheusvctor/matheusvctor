@@ -19,6 +19,7 @@
 </div>
 
 <style>
+  
   .tech-icon {
     margin: 0 10px;
     transition: all 0.5s ease;
@@ -51,6 +52,7 @@
     transform: scale(1.02);
     box-shadow: 0 0 20px rgba(0,191,191,0.5);
   }
+  
 </style>
 
 ## 💡 Conhecimentos
