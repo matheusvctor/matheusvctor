@@ -18,23 +18,7 @@
   <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="transition: all 0.3s ease; animation: float 3s ease-in-out infinite; animation-delay: 0.8s; cursor: pointer;">
 </div>
 
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-20px); }
-}
 
-img[align="center"]:hover {
-  transform: translateY(-25px) scale(1.2) !important;
-  filter: drop-shadow(0 0 15px rgba(0,191,191,0.8)) !important;
-}
-
-img[src*="github-readme-stats"]:hover,
-img[src*="github-readme-streak-stats"]:hover {
-  transform: scale(1.02) !important;
-  box-shadow: 0 0 20px rgba(0,191,191,0.5) !important;
-}
-</style>
 
 ## 💡 Conhecimentos
 
