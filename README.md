@@ -10,15 +10,15 @@ Sou apaixonado por tecnologia e busco sempre aplicar as melhores práticas no de
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusvctor&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&cache_seconds=86400" width="48%" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvctor&layout=donut&theme=tokyonight&bg_color=0d1117&border_color=30363d&cache_seconds=86400" width="48%" alt="Linguagens mais utilizadas" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusvctor&theme=tokyo-night&bg_color=0d1117&color=00bfbf&line=00bfbf&point=FFFFFF&hide_border=false" width="48%" alt="Gráfico de Contribuição" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusvctor&theme=tokyonight&background=0d1117&border=30363d" width="48%" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusvctor&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d" height="195" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvctor&layout=donut&theme=tokyonight&bg_color=0d1117&border_color=30363d" height="195" alt="Linguagens mais utilizadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusvctor&theme=tokyo-night&bg_color=0d1117&color=00bfbf&line=00bfbf&point=FFFFFF&hide_border=false" height="195" alt="Gráfico de Contribuição" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusvctor&theme=tokyonight&background=0d1117&border=30363d" height="195" alt="GitHub Streak" />
+</p>
 
 <br>
 
