@@ -1,48 +1,131 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá, eu sou o Matheus Victor!
+# Matheus Victor 👨‍💻
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo(a)!;Desenvolvedor+Full+Stack;Sempre+Aprendendo+Novas+Tecnologias)](https://git.io/typing-svg)
+
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=25&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG">
+
+  <a href="https://github.com/matheusvctor">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusvctor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=00bfbf" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 0 15px rgba(0,191,191,0.3);">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvctor&layout=compact&langs_count=7&theme=tokyonight&bg_color=0d1117&border_color=00bfbf" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 0 15px rgba(0,191,191,0.3);">
+
 </div>
 
-Sou apaixonado por tecnologia e busco sempre aplicar as melhores práticas no desenvolvimento de soluções eficientes, focando na criação de sistemas sólidos e responsivos para agregar ao meu portfólio.
 
-<br>
 
-## 📊 GitHub Stats
+## 🚀 Minhas Skills
+
+
+
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 30px; padding: 20px; margin: 20px 0;">
+
+  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="transition: all 0.3s ease; animation: float 3s ease-in-out infinite; animation-delay: 0s; cursor: pointer;">
+
+  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="transition: all 0.3s ease; animation: float 3s ease-in-out infinite; animation-delay: 0.2s; cursor: pointer;">
+
+  <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="transition: all 0.3s ease; animation: float 3s ease-in-out infinite; animation-delay: 0.4s; cursor: pointer;">
+
+  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="transition: all 0.3s ease; animation: float 3s ease-in-out infinite; animation-delay: 0.6s; cursor: pointer;">
+
+  <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="transition: all 0.3s ease; animation: float 3s ease-in-out infinite; animation-delay: 0.8s; cursor: pointer;">
+
+</div>
+
+
+
+
+
+
+
+## 💡 Conhecimentos
+
+
+
+<div align="center" class="skills-section">
+
+
+
+### Front-end
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+
+![Responsive](https://img.shields.io/badge/Responsive-Design-FF69B4?style=for-the-badge)&nbsp;
+
+
+
+### Back-end
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+
+![API](https://img.shields.io/badge/API-RESTful-009688?style=for-the-badge)&nbsp;
+
+
+
+</div>
+
+
+
+## 📊 Estatísticas GitHub
+
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=matheusvctor&theme=react-dark&hide_border=true&area=true)
+
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusvctor&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d" height="195" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvctor&layout=donut&theme=tokyonight&bg_color=0d1117&border_color=30363d" height="195" alt="Linguagens mais utilizadas" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=matheusvctor&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusvctor&theme=tokyo-night&bg_color=0d1117&color=00bfbf&line=00bfbf&point=FFFFFF&hide_border=false" height="195" alt="Gráfico de Contribuição" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusvctor&theme=tokyonight&background=0d1117&border=30363d" height="195" alt="GitHub Streak" />
-</p>
 
-<br>
-
-## 🗂️ Tech Stack
-
-| ⚡ Front-end |
-| :---: |
-| <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> |
-
-| 🔧 Back-end |
-| :---: |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"> |
-
-<br>
-
-## 📫 Contato
 
 <div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusvctor&theme=tokyonight&background=0d1117&border=00bfbf" alt="mystreak"/>
+
+</div>
+
+
+
+## 📫 Entre em Contato
+
+
+
+<div align="center">
+
   <a href="https://www.linkedin.com/in/matheus-victor-296095243/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" class="social-icon">
+
   </a>
+
   <a href="mailto:matheusrochamil203@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" class="social-icon">
+
   </a>
+
 </div>
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+
+
+---
+
+⭐️ From [matheusvctor](https://github.com/matheusvctor)
