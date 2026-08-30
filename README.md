@@ -97,21 +97,15 @@ Desenvolvedor de Software focado no ecossistema **Full Stack**, unindo a estabil
 ### `04.` 📊 Atividade & Métricas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusvctor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=matheusvctor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="165" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvctor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=matheusvctor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" height="165" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=matheusvctor&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" height="160" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/matheusvctor/matheusvctor/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://streak-stats.demolab.com?user=matheusvctor&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" height="165" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -120,7 +114,7 @@ Desenvolvedor de Software focado no ecossistema **Full Stack**, unindo a estabil
 
 <div align="center">
   <br>
-  <img src="./assets/pixel-souls.gif" width="460" alt="Pixel Souls" />
+  <img src="./assets/pixel-souls.gif" width="720" alt="Pixel Souls" />
   <br><br>
   <sub><i>"Don't you dare go hollow."</i> ⚔️🔥</sub>
   <br><br>
