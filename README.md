@@ -1,48 +1,70 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá, eu sou o Matheus Victor!
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=25&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG">
+
+  # ✦ Matheus Victor ✦
+
+  <a href="https://github.com/matheusvctor">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python;React+%E2%80%A2+TypeScript+%E2%80%A2+Supabase;Construindo+sistemas+s%C3%B3lidos+e+eficientes;Don%27t+you+dare+go+hollow.+%E2%9C%A8&font=Fira+Code&size=19&center=true&vCenter=true&width=560&height=45&duration=3500&pause=1000&color=7AA2F7" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <i>"Transformando lógica e café em soluções escaláveis, resilientes e elegantes."</i>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/matheus-victor-296095243/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:matheusrochamil203@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+
 </div>
 
-Sou apaixonado por tecnologia e busco sempre aplicar as melhores práticas no desenvolvimento de soluções eficientes, focando na criação de sistemas sólidos e responsivos para agregar ao meu portfólio.
+<br>
+
+### ◈ Sobre Mim
+
+- 💻 **Desenvolvedor Full Stack** focado em boas práticas, arquitetura limpa e soluções eficientes.
+- ⚙️ **Back-end:** Desenvolvimento de APIs robustas e escaláveis com **Java**, **Spring Boot** e **Python**, integrando bancos de dados e **Supabase**.
+- 🎨 **Front-end:** Criação de interfaces modernas, intuitivas e responsivas utilizando **React**, **TypeScript**, **JavaScript**, **HTML5** e **CSS3**.
+- 🚀 Sempre explorando novas tecnologias e aprimorando padrões de projeto e performance.
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusvctor&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d" height="195" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvctor&layout=donut&theme=tokyonight&bg_color=0d1117&border_color=30363d" height="195" alt="Linguagens mais utilizadas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusvctor&theme=tokyo-night&bg_color=0d1117&color=00bfbf&line=00bfbf&point=FFFFFF&hide_border=false" height="195" alt="Gráfico de Contribuição" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusvctor&theme=tokyonight&background=0d1117&border=30363d" height="195" alt="GitHub Streak" />
-</p>
-
-<br>
-
-## 🗂️ Tech Stack
-
-| ⚡ Front-end |
-| :---: |
-| <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> |
-
-| 🔧 Back-end |
-| :---: |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"> |
-
-<br>
-
-## 📫 Contato
+### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/matheus-victor-296095243/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:matheusrochamil203@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,supabase,typescript,javascript,react,html,css,git,github,vscode,linux&theme=dark&perline=7" alt="Tech Stack" />
   </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<br>
+
+### 📊 Estatísticas & Atividade
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusvctor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvctor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" height="165" alt="Top Langs" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=matheusvctor&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" height="165" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/matheusvctor/matheusvctor/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" />
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  <br>
+  <img src="./assets/pixel-souls.gif" width="460" alt="Pixel Souls" />
+  <br><br>
+  <sub><i>"Don't you dare go hollow."</i> ⚔️🔥</sub>
+  <br>
+</div>
