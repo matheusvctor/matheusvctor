@@ -1,21 +1,27 @@
 <div align="center">
 
   # ✦ Matheus Victor ✦
+  <sub>Full-Stack Software Engineer • Java & Modern Web Ecosystem</sub>
+
+  <br><br>
 
   <a href="https://github.com/matheusvctor">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python;React+%E2%80%A2+TypeScript+%E2%80%A2+Supabase;Construindo+sistemas+s%C3%B3lidos+e+eficientes;Don%27t+you+dare+go+hollow.+%E2%9C%A8&font=Fira+Code&size=19&center=true&vCenter=true&width=560&height=45&duration=3500&pause=1000&color=7AA2F7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python;React+%E2%80%A2+TypeScript+%E2%80%A2+Supabase;Construindo+sistemas+s%C3%B3lidos+e+escal%C3%A1veis;Don%27t+you+dare+go+hollow.+%E2%9A%94%EF%B8%8F&font=Fira+Code&size=16&center=true&vCenter=true&width=560&height=40&duration=3500&pause=1000&color=7AA2F7" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <i>"Transformando lógica e café em soluções escaláveis, resilientes e elegantes."</i>
-  </p>
+  <br>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/matheus-victor-296095243/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-16161e?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="mailto:matheusrochamil203@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-16161e?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Gmail" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/matheusvctor">
+      <img src="https://img.shields.io/badge/GitHub-16161e?style=for-the-badge&logo=github&logoColor=c0caf5" alt="GitHub" />
     </a>
   </p>
 
@@ -23,38 +29,89 @@
 
 <br>
 
-### ◈ Sobre Mim
+---
 
-- 💻 **Desenvolvedor Full Stack** focado em boas práticas, arquitetura limpa e soluções eficientes.
-- ⚙️ **Back-end:** Desenvolvimento de APIs robustas e escaláveis com **Java**, **Spring Boot** e **Python**, integrando bancos de dados e **Supabase**.
-- 🎨 **Front-end:** Criação de interfaces modernas, intuitivas e responsivas utilizando **React**, **TypeScript**, **JavaScript**, **HTML5** e **CSS3**.
-- 🚀 Sempre explorando novas tecnologias e aprimorando padrões de projeto e performance.
+### `01.` ◈ Sobre Mim
 
-<br>
+Desenvolvedor de Software focado no ecossistema **Full Stack**, unindo a estabilidade e segurança de arquiteturas robustas no back-end à fluidez de interfaces web modernas.
 
-### 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,supabase,typescript,javascript,react,html,css,git,github,vscode,linux&theme=dark&perline=7" alt="Tech Stack" />
-  </a>
-</div>
+- ⚙️ **Back-end & Arquitetura**: Desenvolvimento de APIs RESTful e microsserviços de alta disponibilidade com **Java (Spring Boot)** e **Python**, com foco em código limpo e padrões de projeto.
+- 🎨 **Front-end & UX**: Criação de interfaces responsivas, dinâmicas e tipadas com **React**, **TypeScript**, **JavaScript**, **HTML5** e **CSS3**.
+- 🗄️ **Dados & Nuvem**: Modelagem e integração de bancos relacionais com **PostgreSQL**, **Supabase** e arquiteturas em nuvem.
+- 🏛️ **Engenharia de Software**: Aplicação contínua de **Clean Code**, princípios **SOLID**, testes automatizados e boas práticas de versionamento.
 
 <br>
 
-### 📊 Estatísticas & Atividade
+---
+
+### `02.` 🛠️ Stack Tecnológica & Arsenal
+
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="center">Linguagens</th>
+      <th align="center">Back-end & Banco de Dados</th>
+      <th align="center">Front-end</th>
+      <th align="center">DevOps & Ferramentas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=java,py,ts,js&theme=dark" alt="Languages" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=spring,supabase,postgres&theme=dark" alt="Backend & DB" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="Frontend" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="DevOps & Tools" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+---
+
+### `03.` 🧠 Filosofia de Desenvolvimento & Foco
+
+```text
+┌──────────────────────────┬──────────────────────────┬──────────────────────────┐
+│        Back-end          │        Front-end         │     Boas Práticas        │
+├──────────────────────────┼──────────────────────────┼──────────────────────────┤
+│ • Java & Spring Boot     │ • React & TypeScript     │ • Clean Architecture     │
+│ • Python (APIs & Scripts)│ • Design Responsivo / UI │ • SOLID & Design Patterns│
+│ • RESTful & Microservices│ • Componentização Modular│ • Git Flow & Versioning  │
+│ • PostgreSQL & Supabase  │ • Consumo Otimizado APIs │ • Performance & Security │
+└──────────────────────────┴──────────────────────────┴──────────────────────────┘
+```
+
+<br>
+
+---
+
+### `04.` 📊 Atividade & Métricas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusvctor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvctor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" height="165" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusvctor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="160" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvctor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" height="160" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=matheusvctor&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" height="165" alt="GitHub Streak" />
-</div>
+<br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/matheusvctor/matheusvctor/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" />
+  <img src="https://streak-stats.demolab.com?user=matheusvctor&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" height="160" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/matheusvctor/matheusvctor/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <br>
@@ -66,5 +123,5 @@
   <img src="./assets/pixel-souls.gif" width="460" alt="Pixel Souls" />
   <br><br>
   <sub><i>"Don't you dare go hollow."</i> ⚔️🔥</sub>
-  <br>
+  <br><br>
 </div>
