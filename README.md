@@ -1,6 +1,6 @@
 <div align="center">
 
-  # ✦ Matheus Victor ✦
+  # 「「 Matheus Victor 」」
   <sub>Full-Stack Software Engineer • Java, Modern Web & Security Ecosystem</sub>
 
   <br><br>
