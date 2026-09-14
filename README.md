@@ -45,7 +45,7 @@ Desenvolvedor de Software com atuação no ecossistema **Full Stack**, aliando a
 
 ---
 
-### `02.` 🛠️ Stack Tecnológica & Arsenal
+### `02.` 🛠️ Skills
 
 <table align="center" width="100%">
   <thead>
